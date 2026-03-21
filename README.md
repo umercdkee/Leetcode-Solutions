@@ -1,5 +1,5 @@
 # Leetcode-Solutions
-A compilation of my solutions for Leetcode questions. Automatically pushed to GitHub once a solution passes all test cases using LeetHub 3.0.
+A compilation of my solutions for Leetcode questions. Solutions are automatically pushed to GitHub once a solution passes all test cases using LeetHub 3.0. README.md is also updated automatically.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
