@@ -14,6 +14,7 @@ A compilation of my solutions for Leetcode questions. Automatically pushed to Gi
 | ------- | ------- |
 | [0001-two-sum](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,8 +37,13 @@ A compilation of my solutions for Leetcode questions. Automatically pushed to Gi
 | [0003-longest-substring-without-repeating-characters](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0012-integer-to-roman](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0012-integer-to-roman](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 <!---LeetCode Topics End-->
