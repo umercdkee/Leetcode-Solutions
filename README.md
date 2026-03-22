@@ -11,6 +11,7 @@ A compilation of my solutions for Leetcode questions. Solutions are automaticall
 | [0011-container-with-most-water](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0169-majority-element](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,6 +21,7 @@ A compilation of my solutions for Leetcode questions. Solutions are automaticall
 | [0013-roman-to-integer](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0169-majority-element](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +70,7 @@ A compilation of my solutions for Leetcode questions. Solutions are automaticall
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
