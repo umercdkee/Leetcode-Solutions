@@ -10,6 +10,7 @@ A compilation of my solutions for Leetcode questions. Solutions are automaticall
 | [0004-median-of-two-sorted-arrays](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0169-majority-element](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -18,6 +19,7 @@ A compilation of my solutions for Leetcode questions. Solutions are automaticall
 | [0012-integer-to-roman](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0169-majority-element](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +28,7 @@ A compilation of my solutions for Leetcode questions. Solutions are automaticall
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0169-majority-element](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,4 +64,12 @@ A compilation of my solutions for Leetcode questions. Solutions are automaticall
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
