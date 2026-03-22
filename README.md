@@ -12,6 +12,7 @@ A compilation of my solutions for Leetcode questions. Solutions are automaticall
 | [0014-longest-common-prefix](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0169-majority-element](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,6 +23,7 @@ A compilation of my solutions for Leetcode questions. Solutions are automaticall
 | [0017-letter-combinations-of-a-phone-number](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0169-majority-element](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +55,7 @@ A compilation of my solutions for Leetcode questions. Solutions are automaticall
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
