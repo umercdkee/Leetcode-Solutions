@@ -53,6 +53,7 @@ A compilation of my solutions for Leetcode questions. Solutions are automaticall
 | [0013-roman-to-integer](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0242-valid-anagram](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Sliding Window
@@ -94,4 +95,8 @@ A compilation of my solutions for Leetcode questions. Solutions are automaticall
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
