@@ -11,6 +11,7 @@ A compilation of my solutions for Leetcode questions. Solutions are automaticall
 | [0011-container-with-most-water](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0027-remove-element/) | Easy |
@@ -50,6 +51,7 @@ A compilation of my solutions for Leetcode questions. Solutions are automaticall
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0027-remove-element/) | Easy |
@@ -98,6 +100,7 @@ A compilation of my solutions for Leetcode questions. Solutions are automaticall
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0169-majority-element](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
