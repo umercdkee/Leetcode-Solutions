@@ -18,6 +18,7 @@ A compilation of my solutions for Leetcode questions. Solutions are automaticall
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
+| [0066-plus-one](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0169-majority-element](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -93,6 +94,7 @@ A compilation of my solutions for Leetcode questions. Solutions are automaticall
 | [0013-roman-to-integer](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0050-powx-n](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0050-powx-n/) | Medium |
+| [0066-plus-one](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
