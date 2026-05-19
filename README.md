@@ -49,6 +49,7 @@ A compilation of my solutions for Leetcode questions. Solutions are automaticall
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0016-3sum-closest/) | Medium |
@@ -64,6 +65,7 @@ A compilation of my solutions for Leetcode questions. Solutions are automaticall
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
@@ -141,4 +143,8 @@ A compilation of my solutions for Leetcode questions. Solutions are automaticall
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0175-combine-two-tables/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
