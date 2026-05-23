@@ -58,6 +58,7 @@ A compilation of my solutions for Leetcode questions. Solutions are automaticall
 | [0026-remove-duplicates-from-sorted-array](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +121,7 @@ A compilation of my solutions for Leetcode questions. Solutions are automaticall
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
