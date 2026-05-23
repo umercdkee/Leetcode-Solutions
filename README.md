@@ -77,6 +77,7 @@ A compilation of my solutions for Leetcode questions. Solutions are automaticall
 | [0020-valid-parentheses](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0058-length-of-last-word](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/umercdkee/Leetcode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Sliding Window
