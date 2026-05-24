@@ -155,6 +155,7 @@ A compilation of my solutions for Leetcode questions. Solutions are automaticall
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0175-combine-two-tables/) | Easy |
+| [0176-second-highest-salary](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0176-second-highest-salary/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
