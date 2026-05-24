@@ -122,12 +122,14 @@ A compilation of my solutions for Leetcode questions. Solutions are automaticall
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0050-powx-n/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
