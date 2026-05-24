@@ -60,6 +60,7 @@ A compilation of my solutions for Leetcode questions. Solutions are automaticall
 | [0027-remove-element](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0125-valid-palindrome](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@ A compilation of my solutions for Leetcode questions. Solutions are automaticall
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0058-length-of-last-word](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0125-valid-palindrome](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/umercdkee/Leetcode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Sliding Window
