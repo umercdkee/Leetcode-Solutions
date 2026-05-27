@@ -162,6 +162,7 @@ A compilation of my solutions for Leetcode questions. Solutions are automaticall
 | [0183-customers-who-never-order](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0577-employee-bonus](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0607-sales-person](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0607-sales-person/) | Easy |
+| [0610-triangle-judgement](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0610-triangle-judgement/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
