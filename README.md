@@ -161,6 +161,7 @@ A compilation of my solutions for Leetcode questions. Solutions are automaticall
 | [0182-duplicate-emails](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0577-employee-bonus](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0577-employee-bonus/) | Easy |
+| [0607-sales-person](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0607-sales-person/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
