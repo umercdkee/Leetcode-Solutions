@@ -160,6 +160,7 @@ A compilation of my solutions for Leetcode questions. Solutions are automaticall
 | [0181-employees-earning-more-than-their-managers](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0183-customers-who-never-order/) | Easy |
+| [0577-employee-bonus](https://github.com/umercdkee/Leetcode-Solutions/tree/main/0577-employee-bonus/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
